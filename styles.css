@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #112a46;
+  background-color: #C209C1;
   color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -39,14 +39,14 @@ header nav ul li a {
 }
 
 header nav ul li a.button {
-  background-color: #e9b44c;
+  background-color: #5A00EE;
   padding: 8px 16px;
   border-radius: 4px;
 }
 
 .hero {
-  background-color: #e9b44c;
-  color: #112a46;
+  background-color: #5A00EE;
+  color: #ffffff;
   padding: 100px 40px;
   text-align: center;
 }
@@ -63,11 +63,11 @@ section {
 
 section h2 {
   margin-top: 0;
-  color: #112a46;
+  color: #C209C1;
 }
 
 footer {
-  background-color: #112a46;
+  background-color: #C209C1;
   color: #ffffff;
   text-align: center;
   padding: 20px;
